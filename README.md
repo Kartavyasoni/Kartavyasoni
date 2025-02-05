@@ -1,3 +1,4 @@
+![logo](https://github.com/Kartavyasoni/Kartavyasoni/blob/main/Kartavya%20Soni.png)
 <h1 align="center">Hi 👋, I'm Kartavya Soni</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
