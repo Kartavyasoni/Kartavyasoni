@@ -18,8 +18,6 @@
 
 - 💬 Ask me about **Python, Tableau**
 
-- 📫 How to reach me **sonikartavya8@gmail.com**
-
 - 📄 Know about my experiences [N/A](N/A)
 
 - ⚡ Fun fact **I think I am Funny 😄**
