@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=250&section=header&text=AGENT%20KARTAVYA&fontSize=70&fontColor=00f2ff&fontAlignY=50&animation=fadeIn&desc=DATA%20DETECTIVE%20//%20LEVEL%203%20CLEARANCE&descAlignY=75&descAlign=50" width="100%"/>
-</div>
+<img src="Kartavya Soni.png" />
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=22&pause=1000&color=00F2FF&center=true&vCenter=true&width=750&lines=Subject:+Kartavya+Soni;Mission:+Interrogating+Data+Until+It+Confesses;Status:+Open+for+Relocation+(USA);Current+Location:+Boca+Raton,+FL" alt="Typing SVG" />
