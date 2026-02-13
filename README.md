@@ -1,7 +1,7 @@
 <img src="Kartavya Soni.png" />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=22&pause=1000&color=00F2FF&center=true&vCenter=true&width=750&lines=Subject:+Kartavya+Soni;Mission:+Interrogating+Data+Until+It+Confesses;Status:+Open+for+Relocation+(USA);Current+Location:+Boca+Raton,+FL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=22&pause=1000&color=00F2FF&center=true&vCenter=true&width=750&lines=Subject:+Kartavya+Soni;Mission:+Interrogating+Data+Until+It+Confesses;Current+Location:+Boca+Raton,+FL" alt="Typing SVG" />
 </h3>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 > **"I don't just analyze data; I solve the mystery hidden inside it."**
 
-I am a **Master's Student in Computer Science** and a **Student Governor** at FAU. My specialty is digging into messy, unstructured datasets (the "suspects") and building pipelines that force them to reveal actionable insights.
+My specialty is digging into messy, unstructured datasets (the "suspects") and building pipelines that force them to reveal actionable insights.
 
 * 🔎 **Forensic Specialty:** ETL Pipelines, Predictive Modeling, & Cloud Architecture.
 * 💼 **Prior Case Work:** **Unified Mentor** (Improved data quality by 18%).
